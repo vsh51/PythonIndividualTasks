@@ -1,0 +1,4 @@
+.venv
+pyrightconfig.json
+warehouse/__pycache__/
+warehouse/tests/__pycache__/
